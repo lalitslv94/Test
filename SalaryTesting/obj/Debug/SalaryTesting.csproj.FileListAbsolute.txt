@@ -1,0 +1,16 @@
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\SalaryTesting.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\SalaryTesting.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\EmployeeToolAdoNet.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\EmployeeToolInterfaces.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\EmployeeToolModels.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\EmployeeMnagementDbSetting.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\EmployeeManagement.Utils.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\EmployeeToolAdoNet.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\EmployeeToolInterfaces.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\EmployeeToolModels.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\EmployeeMnagementDbSetting.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\bin\Debug\EmployeeManagement.Utils.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\obj\Debug\SalaryTesting.csprojResolveAssemblyReference.cache
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\obj\Debug\SalaryTesting.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\SalaryTesting\obj\Debug\SalaryTesting.pdb

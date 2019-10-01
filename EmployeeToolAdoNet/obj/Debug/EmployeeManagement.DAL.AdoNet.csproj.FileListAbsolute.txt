@@ -1,0 +1,14 @@
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeToolAdoNet.dll.config
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeToolAdoNet.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeToolAdoNet.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeManagement.Utils.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeMnagementDbSetting.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeToolInterfaces.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeToolModels.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeManagement.Utils.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeMnagementDbSetting.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeToolInterfaces.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\bin\Debug\EmployeeToolModels.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\obj\Debug\EmployeeManagement.DAL.AdoNet.csprojResolveAssemblyReference.cache
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\obj\Debug\EmployeeToolAdoNet.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolAdoNet\obj\Debug\EmployeeToolAdoNet.pdb

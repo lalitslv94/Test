@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LearningModelStoreContainer" CdmEntityContainer="LearningEntities">
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="LearningModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Dob" ColumnName="Dob" />
+          <ScalarProperty Name="Doj" ColumnName="Doj" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="salaries">
+      <EntityTypeMapping TypeName="LearningModel.salary">
+        <MappingFragment StoreEntitySet="salary">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="salary_amount_paid" ColumnName="salary_amount_paid" />
+          <ScalarProperty Name="salaryDate" ColumnName="salaryDate" />
+          <ScalarProperty Name="Fk_EmployeeId" ColumnName="Fk_EmployeeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

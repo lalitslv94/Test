@@ -1,0 +1,12 @@
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\bin\Debug\EFModels.dll.config
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\bin\Debug\EFModels.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\bin\Debug\EFModels.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\bin\Debug\EmployeeToolModels.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\bin\Debug\EntityFramework.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\bin\Debug\EmployeeToolModels.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\bin\Debug\EntityFramework.xml
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\obj\Debug\EFModels.csprojResolveAssemblyReference.cache
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\obj\Debug\EFModels.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EFModels\obj\Debug\EFModels.pdb

@@ -1,0 +1,7 @@
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolInterfaces\bin\Debug\EmployeeToolInterfaces.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolInterfaces\bin\Debug\EmployeeToolInterfaces.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolInterfaces\bin\Debug\EmployeeToolModels.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolInterfaces\bin\Debug\EmployeeToolModels.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolInterfaces\obj\Debug\EmployeeManagement.Interfaces.csprojResolveAssemblyReference.cache
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolInterfaces\obj\Debug\EmployeeToolInterfaces.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeToolInterfaces\obj\Debug\EmployeeToolInterfaces.pdb

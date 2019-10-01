@@ -1,0 +1,5 @@
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeManagement.Utils\bin\Debug\EmployeeManagement.Utils.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeManagement.Utils\bin\Debug\EmployeeManagement.Utils.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeManagement.Utils\obj\Debug\EmployeeManagement.Utils.csprojResolveAssemblyReference.cache
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeManagement.Utils\obj\Debug\EmployeeManagement.Utils.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeManagement.Utils\obj\Debug\EmployeeManagement.Utils.pdb

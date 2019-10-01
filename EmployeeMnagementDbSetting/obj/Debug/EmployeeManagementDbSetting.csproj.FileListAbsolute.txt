@@ -1,0 +1,4 @@
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeMnagementDbSetting\bin\Debug\EmployeeMnagementDbSetting.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeMnagementDbSetting\bin\Debug\EmployeeMnagementDbSetting.pdb
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeMnagementDbSetting\obj\Debug\EmployeeMnagementDbSetting.dll
+D:\Lalit\Study\RAJU\Application\EmployeeTool\EmployeeMnagementDbSetting\obj\Debug\EmployeeMnagementDbSetting.pdb
